@@ -1,3 +1,3 @@
 Make,Model,Year,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Number of Doors,Vehicle Size,Vehicle Style,highway MPG,city mpg,Popularity,MSRP,Crossover,Diesel,Exotic,Factory Tuner,Flex Fuel,Hatchback,High-Performance,Hybrid,Luxury,Performance
-Tesla,Model S,2020,electric,778.0,0.0,DIRECT_DRIVE,all wheel drive,4.0,Large,Sedan,112,121,1391,69420,0,0,1,0,0,0,0,0,0,1
+Audi,Q5,2021,premium unleaded (required),261.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,28,23,3105,43300,1,0,0,0,0,0,0,0,1,0
 Toyota,Corolla,2021,regular unleaded,139.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,30,2031,20025,0,0,0,0,0,0,0,0,0,0
