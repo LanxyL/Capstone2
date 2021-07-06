@@ -2741,10 +2741,10 @@ Lincoln,Continental,2002,premium unleaded (required),275.0,8.0,AUTOMATIC,front w
 Lincoln,Continental,2017,regular unleaded,305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,26,17,61,44560,0,0,0,0,0,0,0,0,1,0
 Lincoln,Continental,2017,regular unleaded,305.0,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,24,16,61,46560,0,0,0,0,0,0,0,0,1,0
 Lincoln,Continental,2017,regular unleaded,305.0,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,24,16,61,49515,0,0,0,0,0,0,0,0,1,0
-Lincoln,Continental,2017,premium unleaded (recommended),,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,25,17,61,55915,0,0,0,0,0,0,0,0,1,0
-Lincoln,Continental,2017,premium unleaded (recommended),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,27,18,61,62915,0,0,0,0,0,0,0,0,1,0
-Lincoln,Continental,2017,premium unleaded (recommended),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,27,18,61,53915,0,0,0,0,0,0,0,0,1,0
-Lincoln,Continental,2017,premium unleaded (recommended),,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,25,17,61,64915,0,0,0,0,0,0,0,0,1,0
+Lincoln,Continental,2017,premium unleaded (recommended),305.0,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,25,17,61,55915,0,0,0,0,0,0,0,0,1,0
+Lincoln,Continental,2017,premium unleaded (recommended),335.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,27,18,61,62915,0,0,0,0,0,0,0,0,1,0
+Lincoln,Continental,2017,premium unleaded (recommended),335.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,27,18,61,53915,0,0,0,0,0,0,0,0,1,0
+Lincoln,Continental,2017,premium unleaded (recommended),305.0,6.0,AUTOMATIC,all wheel drive,4.0,Large,Sedan,25,17,61,64915,0,0,0,0,0,0,0,0,1,0
 Lincoln,Continental,2017,regular unleaded,305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,26,17,61,47515,0,0,0,0,0,0,0,0,1,0
 Ford,Contour SVT,1998,regular unleaded,195.0,6.0,MANUAL,front wheel drive,4.0,Midsize,Sedan,26,17,5657,2655,0,0,0,1,0,0,0,0,0,1
 Ford,Contour SVT,1999,regular unleaded,200.0,6.0,MANUAL,front wheel drive,4.0,Midsize,Sedan,26,17,5657,2702,0,0,0,1,0,0,0,0,0,1
@@ -3976,10 +3976,10 @@ Ford,Escape,2016,premium unleaded (recommended),178.0,4.0,AUTOMATIC,front wheel 
 Ford,Escape,2016,regular unleaded,168.0,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,31,22,5657,23590,1,0,0,0,0,0,0,0,0,0
 Ford,Escape,2016,premium unleaded (recommended),178.0,4.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,29,22,5657,31745,1,0,0,0,0,0,0,0,0,0
 Ford,Escape,2017,regular unleaded,168.0,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,29,21,5657,23600,1,0,0,0,0,0,0,0,0,0
-Ford,Escape,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,30,23,5657,29100,1,0,0,0,0,0,0,0,0,0
-Ford,Escape,2017,regular unleaded,,4.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,28,22,5657,30850,1,0,0,0,0,0,0,0,0,0
-Ford,Escape,2017,regular unleaded,,4.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,28,22,5657,26850,1,0,0,0,0,0,0,0,0,0
-Ford,Escape,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,30,23,5657,25100,1,0,0,0,0,0,0,0,0,0
+Ford,Escape,2017,regular unleaded,179.0,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,30,23,5657,29100,1,0,0,0,0,0,0,0,0,0
+Ford,Escape,2017,regular unleaded,245.0,4.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,28,22,5657,30850,1,0,0,0,0,0,0,0,0,0
+Ford,Escape,2017,regular unleaded,245.0,4.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,28,22,5657,26850,1,0,0,0,0,0,0,0,0,0
+Ford,Escape,2017,regular unleaded,179.0,4.0,AUTOMATIC,front wheel drive,4.0,Compact,4dr SUV,30,23,5657,25100,1,0,0,0,0,0,0,0,0,0
 Ford,Escort,2001,regular unleaded,130.0,4.0,MANUAL,front wheel drive,2.0,Compact,Coupe,31,23,5657,12340,0,0,0,0,0,0,0,0,0,0
 Ford,Escort,2002,regular unleaded,130.0,4.0,MANUAL,front wheel drive,2.0,Compact,Coupe,31,22,5657,14315,0,0,0,0,0,0,0,0,0,0
 Ford,Escort,2002,regular unleaded,130.0,4.0,MANUAL,front wheel drive,2.0,Compact,Coupe,31,23,5657,12815,0,0,0,0,0,0,0,0,0,0
@@ -4677,12 +4677,12 @@ Land Rover,Freelander,2004,regular unleaded,174.0,6.0,AUTOMATIC,all wheel drive,
 Land Rover,Freelander,2004,regular unleaded,174.0,6.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,19,16,258,25330,1,0,0,0,0,0,0,0,1,0
 Land Rover,Freelander,2005,regular unleaded,174.0,6.0,AUTOMATIC,all wheel drive,4.0,Compact,4dr SUV,19,16,258,26830,1,0,0,0,0,0,0,0,1,0
 Land Rover,Freelander,2005,regular unleaded,174.0,6.0,AUTOMATIC,all wheel drive,2.0,Compact,2dr SUV,19,16,258,26830,1,0,0,0,0,0,0,0,1,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,28030,0,0,0,0,0,0,0,0,0,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,23930,0,0,0,0,0,0,0,0,0,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Cargo Minivan,22,16,5657,21630,0,0,0,0,0,0,0,0,0,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,26530,0,0,0,0,0,0,0,0,0,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,21,16,5657,29030,0,0,0,0,0,0,0,0,0,0
-Ford,Freestar,2005,regular unleaded,,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,21,16,5657,32755,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,28030,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,23930,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Cargo Minivan,22,16,5657,21630,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,26530,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,21,16,5657,29030,0,0,0,0,0,0,0,0,0,0
+Ford,Freestar,2005,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,21,16,5657,32755,0,0,0,0,0,0,0,0,0,0
 Ford,Freestar,2006,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Cargo Minivan,22,16,5657,19650,0,0,0,0,0,0,0,0,0,0
 Ford,Freestar,2006,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,21,15,5657,29575,0,0,0,0,0,0,0,0,0,0
 Ford,Freestar,2006,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,4.0,Midsize,Passenger Minivan,22,16,5657,23655,0,0,0,0,0,0,0,0,0,0
@@ -5539,20 +5539,20 @@ Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300.0,6.0,AUTOMATIC,front
 Chevrolet,Impala Limited,2016,flex-fuel (unleaded/E85),300.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,30,18,1385,25830,0,0,0,0,1,0,0,0,0,0
 Chevrolet,Impala,2015,regular unleaded,195.0,4.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,31,21,1385,34465,0,0,0,0,0,0,0,0,0,0
 Chevrolet,Impala,2015,regular unleaded,195.0,4.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,31,21,1385,27060,0,0,0,0,0,0,0,0,0,0
-Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40660,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),260.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40660,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2015,flex-fuel (unleaded/E85),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,29,19,1385,35440,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2015,flex-fuel (unleaded/E85),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,29,19,1385,30285,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2015,regular unleaded,195.0,4.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,31,21,1385,29310,0,0,0,0,0,0,0,0,0,0
-Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37535,0,0,0,0,1,0,0,0,0,1
-Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40810,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2015,flex-fuel (unleaded/natural gas),260.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37535,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40810,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2016,flex-fuel (unleaded/E85),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,29,19,1385,35540,0,0,0,0,1,0,0,0,0,1
-Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37570,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2016,flex-fuel (unleaded/natural gas),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37570,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2016,flex-fuel (unleaded/E85),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,29,19,1385,30435,0,0,0,0,1,0,0,0,0,1
 Chevrolet,Impala,2016,regular unleaded,195.0,4.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,31,22,1385,27095,0,0,0,0,0,0,0,0,0,0
 Chevrolet,Impala,2016,regular unleaded,195.0,4.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,31,22,1385,29460,0,0,0,0,0,0,0,0,0,0
 Chevrolet,Impala,2017,flex-fuel (unleaded/E85),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,28,19,1385,35645,0,0,0,0,1,0,0,0,0,1
-Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37675,0,0,0,0,1,0,0,0,0,1
-Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40915,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,37675,0,0,0,0,1,0,0,0,0,1
+Chevrolet,Impala,2017,flex-fuel (unleaded/natural gas),305.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,25,17,1385,40915,0,0,0,0,1,0,0,0,0,1
 Chrysler,Imperial,1991,regular unleaded,150.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,23,15,1013,2000,0,0,0,0,0,0,0,0,0,0
 Chrysler,Imperial,1992,regular unleaded,150.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,23,16,1013,2000,0,0,0,0,0,0,0,0,0,0
 Chrysler,Imperial,1993,regular unleaded,150.0,6.0,AUTOMATIC,front wheel drive,4.0,Large,Sedan,24,17,1013,2000,0,0,0,0,0,0,0,0,0,0
@@ -6217,7 +6217,7 @@ Mercedes-Benz,M-Class,2014,premium unleaded (required),402.0,8.0,AUTOMATIC,all w
 Mercedes-Benz,M-Class,2014,premium unleaded (required),302.0,6.0,AUTOMATIC,rear wheel drive,4.0,Midsize,4dr SUV,24,18,617,47790,1,0,0,0,0,0,0,0,1,0
 Mercedes-Benz,M-Class,2015,premium unleaded (required),329.0,6.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,22,18,617,62900,1,0,0,0,0,0,0,0,1,1
 Mercedes-Benz,M-Class,2015,premium unleaded (required),302.0,6.0,AUTOMATIC,rear wheel drive,4.0,Midsize,4dr SUV,24,18,617,48300,1,0,0,0,0,0,0,0,1,0
-Mercedes-Benz,M-Class,2015,diesel,,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,29,22,617,49800,1,1,0,0,0,0,0,0,1,0
+Mercedes-Benz,M-Class,2015,diesel,200.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,29,22,617,49800,1,1,0,0,0,0,0,0,1,0
 Mercedes-Benz,M-Class,2015,premium unleaded (required),518.0,8.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,17,13,617,98400,1,0,0,1,0,0,1,0,1,0
 Mercedes-Benz,M-Class,2015,premium unleaded (required),302.0,6.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,22,17,617,50800,1,0,0,0,0,0,0,0,1,0
 BMW,M2,2016,premium unleaded (required),365.0,6.0,MANUAL,rear wheel drive,2.0,Compact,Coupe,26,18,3916,51700,0,0,0,1,0,0,1,0,1,0
@@ -6540,17 +6540,17 @@ Lincoln,MKZ,2016,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,4.0,Mids
 Lincoln,MKZ,2016,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,Sedan,31,22,61,47495,0,0,0,0,0,0,0,0,1,0
 Lincoln,MKZ,2016,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,39,41,61,35190,0,0,0,0,0,0,0,1,1,0
 Lincoln,MKZ,2016,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,33,22,61,35190,0,0,0,0,0,0,0,0,1,0
-Lincoln,MKZ,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,35010,0,0,0,0,0,0,0,1,1,0
+Lincoln,MKZ,2017,regular unleaded,245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,35010,0,0,0,0,0,0,0,1,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,Sedan,28,20,61,36900,0,0,0,0,0,0,0,0,1,0
-Lincoln,MKZ,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,39510,0,0,0,0,0,0,0,1,1,0
+Lincoln,MKZ,2017,regular unleaded,245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,39510,0,0,0,0,0,0,0,1,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,31,21,61,39510,0,0,0,0,0,0,0,0,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,Sedan,28,20,61,49560,0,0,0,0,0,0,0,0,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,31,21,61,35010,0,0,0,0,0,0,0,0,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,Sedan,28,20,61,41400,0,0,0,0,0,0,0,0,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,31,21,61,47670,0,0,0,0,0,0,0,0,1,0
-Lincoln,MKZ,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,36760,0,0,0,0,0,0,0,1,1,0
+Lincoln,MKZ,2017,regular unleaded,245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,36760,0,0,0,0,0,0,0,1,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,31,21,61,36760,0,0,0,0,0,0,0,0,1,0
-Lincoln,MKZ,2017,regular unleaded,,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,47670,0,0,0,0,0,0,0,1,1,0
+Lincoln,MKZ,2017,regular unleaded,245.0,4.0,AUTOMATIC,front wheel drive,4.0,Midsize,Sedan,38,41,61,47670,0,0,0,0,0,0,0,1,1,0
 Lincoln,MKZ,2017,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,4.0,Midsize,Sedan,28,20,61,38650,0,0,0,0,0,0,0,0,1,0
 Mercedes-Benz,ML55 AMG,2000,regular unleaded,342.0,8.0,AUTOMATIC,all wheel drive,4.0,Midsize,4dr SUV,16,12,617,5650,0,0,0,1,0,0,0,0,1,1
 Tesla,Model S,2014,electric,,0.0,DIRECT_DRIVE,rear wheel drive,4.0,Large,Sedan,90,88,1391,79900,0,0,1,0,0,0,1,0,0,0
